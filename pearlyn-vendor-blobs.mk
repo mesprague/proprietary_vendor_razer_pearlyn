@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     CortexInstaller \
     LeanbackLauncher \
     LeanbackIme \
+    AmazeFileManager \
     cneapiclient \
     com.qti.dpmframework \
     com.quicinc.cne \
