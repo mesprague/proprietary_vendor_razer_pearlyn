@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
     LeanbackLauncher \
     LeanbackIme \
     PearlynLed \
+    Overscan \
     AnExplorer \
     WuWeather \
     YahooWeather \
