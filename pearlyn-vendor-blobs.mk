@@ -32,7 +32,10 @@ PRODUCT_PACKAGES += \
     CortexInstaller \
     LeanbackLauncher \
     LeanbackIme \
+    PearlynLed \
     AnExplorer \
+    WuWeather \
+    YahooWeather \
     cneapiclient \
     com.qti.dpmframework \
     com.quicinc.cne \
