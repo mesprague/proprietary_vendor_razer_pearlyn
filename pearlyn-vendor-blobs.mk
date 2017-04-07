@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     LeanbackIme \
     PearlynLed \
     Overscan \
+    IOSBeamService \
     AnExplorer \
     WuWeather \
     YahooWeather \
