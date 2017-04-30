@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     PearlynLed \
     Overscan \
     IOSBeamService \
-    OOBEPairing \
     WuWeather \
     YahooWeather \
     cneapiclient \
