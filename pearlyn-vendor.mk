@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     PearlynLed \
     Overscan \
     IOSBeamService \
-    WuWeather \
     YahooWeather \
     cneapiclient \
     com.qti.dpmframework \
@@ -48,3 +47,4 @@ PRODUCT_PACKAGES += \
     ConnectivityExt \
     libtime_genoff \
     dpmapi
+   
