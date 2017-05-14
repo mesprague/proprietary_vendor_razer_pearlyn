@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     Overscan \
     IOSBeamService \
     YahooWeather \
-    Netflix \
     cneapiclient \
     com.qti.dpmframework \
     com.quicinc.cne \
