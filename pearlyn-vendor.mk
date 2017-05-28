@@ -43,8 +43,7 @@ PRODUCT_PACKAGES += \
     oem-services \
     qcmediaplayer \
     QPerformance \
-    org.apache.http.legacy \
-    ConnectivityExt \
+    WfdCommon \
     libtime_genoff \
     dpmapi
    
