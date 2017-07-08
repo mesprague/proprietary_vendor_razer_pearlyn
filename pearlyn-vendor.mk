@@ -44,6 +44,7 @@ PRODUCT_PACKAGES += \
     qcmediaplayer \
     QPerformance \
     WfdCommon \
+    ConnectivityExt \
     libtime_genoff \
     dpmapi
    
