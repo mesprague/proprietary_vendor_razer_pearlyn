@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     PearlynLed \
     Overscan \
     IOSBeamService \
-    YahooWeather \
     cneapiclient \
     com.qti.dpmframework \
     com.quicinc.cne \
