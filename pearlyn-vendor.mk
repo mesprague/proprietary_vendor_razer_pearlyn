@@ -32,7 +32,6 @@ PRODUCT_PACKAGES += \
     CortexInstaller \
     LeanbackLauncher \
     LeanbackIme \
-    PearlynLed \
     Overscan \
     IOSBeamService \
     cneapiclient \
