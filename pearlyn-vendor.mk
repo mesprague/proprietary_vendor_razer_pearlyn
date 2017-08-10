@@ -28,8 +28,6 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/proprietary/
 # Vendor apk and framework packages
 PRODUCT_PACKAGES += \
     TimeService \
-    CortexFramework \
-    CortexInstaller \
     LeanbackLauncher \
     LeanbackIme \
     Overscan \
